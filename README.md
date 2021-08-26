@@ -1,25 +1,23 @@
-### Hi there 👋
-<img align=left src="https://github-readme-stats.vercel.app/api?username=BOsterbuhr&show_icons=true&hide_border=true">
-<img alight=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOsterbuhr&show_icons=true">
-
-```python
-# Add some good locking Python code
-```
-
 <!--
-## Welcome! I'm Ryan! 👋
+```python
+# Add some good looking Python code
+```
+-->
 
-- 🔭 I’m currently working on a project for Human Rights First called Blue Witness
-- 🌱 I’m currently learning about team management as a Team Project Manger in my last month at Lambda School
-- 💬 Ask me about something musical
-- ⚡ Fun fact: I used to build custom staircases
+# Welcome, please excuse the mess, renovations are underway!
+- 🔮 I am searching for a career, that is probably why you are here.
+- 🌱 My focus right now is to learn how to become a better developer, if you have suggestions reach out!
+- 💬 Ask me about coffee or politics.
+- 🪙 Interesting fact: I collect coins, each one is a piece of art when you look closely!
 
 ## Connect with me:
 
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="72px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
+[<img align="left" style="margin-right: 1.5rem" alt="Medium" width="72px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -27,18 +25,15 @@
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
-![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## Tools:
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FE7A16.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -49,10 +44,11 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanFikejs&show_icons=true&locale=en" alt="RyanFikejs" /></p>
+<p><img align=left src="https://github-readme-stats.vercel.app/api?username=BOsterbuhr&show_icons=true&hide_border=true">
+<img alight=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOsterbuhr&show_icons=true"></p>
 
 ---
 
-[medium]: https://ryan-fikejs.medium.com/
-[linkedin]: https://www.linkedin.com/in/ryan-fikejs/
--->
+[medium]: https://brodyosterbuhr.medium.com/
+[linkedin]: https://www.linkedin.com/in/bosterbuhr/
+
