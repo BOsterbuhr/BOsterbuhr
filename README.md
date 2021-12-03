@@ -4,12 +4,6 @@
 ```
 -->
 
-# Welcome, please excuse the mess, renovations are underway!
-- 🔮 I am searching for a career, that is probably why you are here.
-- 🌱 My focus right now is to learn how to become a better developer, if you have suggestions reach out!
-- 💬 Ask me about coffee or politics.
-- 🪙 Interesting fact: I collect coins, each one is a piece of art when you look closely!
-
 ## Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="72px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
