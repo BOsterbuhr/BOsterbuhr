@@ -8,8 +8,6 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="72px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Medium" width="72px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
-
 <br/>
 <br/>
 <br/>
@@ -38,11 +36,6 @@
 
 <br/>
 
-<p><img align=left src="https://github-readme-stats.vercel.app/api?username=BOsterbuhr&show_icons=true&hide_border=true">
-<img alight=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOsterbuhr&show_icons=true"></p>
-
 ---
-
-[medium]: https://brodyosterbuhr.medium.com/
 [linkedin]: https://www.linkedin.com/in/bosterbuhr/
 
